@@ -20,11 +20,14 @@ namespace fukuv0518
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Text = "Nguyen Quoc Bao";
+            button1.BackColor = Color.DarkRed ;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            button2.Text = "God HunTer";
             button2.Left = 0;
+            button2.BackColor = Color.Gray;
         }
 
         private void button3_Click(object sender, EventArgs e)
