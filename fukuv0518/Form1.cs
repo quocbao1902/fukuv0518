@@ -27,7 +27,7 @@ namespace fukuv0518
         {
             button2.Text = "God HunTer";
             button2.Left = 0;
-            button2.BackColor = Color.Gray;
+            button2.BackColor = Color.Crimson;
         }
 
         private void button3_Click(object sender, EventArgs e)
